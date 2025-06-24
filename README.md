@@ -35,7 +35,7 @@ A comprehensive file management system that allows users to upload, organize, an
 
 ### Main Dashboard
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/Sultanomar0013/file_management/main/screenshots/dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Sultanomar0013/file_management/main/screenshots/file_category.png)
 
 ### File Upload Interface
 
