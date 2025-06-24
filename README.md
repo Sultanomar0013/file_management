@@ -19,13 +19,15 @@ A comprehensive file management system that allows users to upload, organize, an
 
 | Technology | Purpose                       |
 |------------|------------------------------|
-| **PHP**       | Backend server-side logic      |
+| **Node.js**       | Backend server-side logic      |
+| **Express.js**       | Backend server-side logic      |
+| **React.js**       | FrontEnd Design logic      |
 | **MySQL**     | Database for storing metadata  |
 | **JavaScript**| Client-side interactivity       |
 | **HTML5**     | Markup for the user interface  |
 | **CSS3**      | Styling and responsive design  |
-| **jQuery**    | Simplify DOM manipulation      |
-| **Bootstrap** | Responsive UI components       |
+| **MaterialUi**    | Responsive UI components       |
+| **Rest Api** | Make Faster Req/Res |
 
 ---
 
