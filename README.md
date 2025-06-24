@@ -33,8 +33,6 @@ A comprehensive file management system that allows users to upload, organize, an
 
 ## 🖥️ Screenshots
 
-> Replace these links with your actual screenshots after uploading images to your repo or image hosting.
-
 ### Main Dashboard
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Sultanomar0013/file_management/main/screenshots/dashboard.png)
